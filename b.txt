@@ -1,1 +1,2 @@
 b.txt content
+new line
